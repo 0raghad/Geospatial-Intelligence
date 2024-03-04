@@ -1,0 +1,111 @@
+Region,City,District,Population,Median_income,Saudis_rate,Male_rate,Coffess count
+Riyadh,Riyadh,l-Murooj,38033,9723,0.62,0.57,23
+Riyadh,Riyadh,Al-Musayyif,51527,9198,0.64,0.55,23
+Riyadh,Riyadh,Al-Taawun,21513,9981,0.72,0.51,33
+Riyadh,Riyadh,King Fahd,43167,8114,0.62,0.57,53
+Riyadh,Riyadh,Al-Mursalat,23059,9170,0.62,0.57,33
+Riyadh,Riyadh,Al-Mughrazat,13677,8738,0.76,0.48,53
+Riyadh,Riyadh,Al-Warood,32945,12357,0.51,0.54,24
+Riyadh,Riyadh,Salahuddin,11614,9216,0.47,0.58,53
+Riyadh,Riyadh,King Abdullah,5153,10674,0.59,0.52,22
+Riyadh,Riyadh,Al-Dhubbat,21230,8178,0.3,0.63,24
+Riyadh,Riyadh,Al-Zahraa,17109,9116,0.33,0.72,56
+Riyadh,Riyadh,Al-Murabba,37966,10039,0.29,0.61,53
+Riyadh,Riyadh,Al-Malaz,70561,6828,0.33,0.58,24
+Riyadh,Riyadh,Jarir,30657,8069,0.42,0.61,5
+Riyadh,Riyadh,Al-Fawata,17444,6830,0.11,0.76,43
+Riyadh,Riyadh,Thulaim,29754,2519,0.16,0.76,2
+Riyadh,Riyadh,Al-Sanaiyah,8705,4465,0.24,0.84,5
+Riyadh,Riyadh,Al-Farouq,5870,6876,0.6,0.65,65
+Riyadh,Riyadh,Al-Dirah,29075,2902,0.12,0.77,65
+Riyadh,Riyadh,Al-Marqab,34189,2684,0.14,0.83,4
+Riyadh,Riyadh,Salam,1294,1932,0.49,0.68,3
+Riyadh,Riyadh,Makka,4124,2258,0.22,0.68,2
+Riyadh,Riyadh,Al-Wusayta,6301,2721,0.46,0.66,34
+Riyadh,Riyadh,Jabrah,10699,3223,0.12,0.61,4
+Riyadh,Riyadh,Al-Oud,46092,2772,0.33,0.66,4
+Riyadh,Riyadh,Utaibah,36285,3495,0.52,0.61,4
+Riyadh,Riyadh,Manfouha Al-Jadidah,82895,2841,0.28,0.63,42
+Riyadh,Riyadh,Ghubairah,52815,3752,0.28,0.58,32
+Riyadh,Riyadh,Al-Khalidiyyah,55005,3773,0.33,0.64,54
+Riyadh,Riyadh,Al-Faisaliyyah,22966,4347,0.59,0.66,64
+Riyadh,Riyadh,Al-Yamamah,57837,3402,0.47,0.58,24
+Riyadh,Riyadh,Manfouha,63368,2358,0.32,0.7,43
+Riyadh,Riyadh,Al-Mansourah,59218,7014,0.52,0.52,32
+Riyadh,Riyadh,Al-Muathir,16498,18250,0.18,0.66,12
+Riyadh,Riyadh,Al-Muwahhadin,5113,6842,0.51,0.47,32
+Riyadh,Riyadh,Al-Rafi'ah,7118,8630,0.42,0.46,13
+Riyadh,Riyadh,Al-Naseriyyah,8020,4059,0.4,0.63,14
+Riyadh,Riyadh,Al-Namoodejiyyah,12629,14711,0.63,0.57,13
+Riyadh,Riyadh,Al-Fakhiriyah,10668,7952,0.58,0.55,14
+Riyadh,Riyadh,Al-Washam,17833,5447,0.3,0.6,14
+Riyadh,Riyadh,Al-Aisha,17945,9768,0.55,0.62,14
+Riyadh,Riyadh,Al-Badi'ah,37968,4571,0.47,0.59,14
+Riyadh,Riyadh,Al-Jaradiyyah,31614,3152,0.55,0.51,14
+Riyadh,Riyadh,Siyah,3479,3153,0.38,0.61,13
+Riyadh,Riyadh,Al-Nakhil,20406,9765,0.59,0.54,13
+Riyadh,Riyadh,King Saud University,17238,14189,0.61,0.66,13
+Riyadh,Riyadh,Al-Muhammadiyah,23901,12453,0.76,0.52,11
+Riyadh,Riyadh,Al-Ra'id,12965,20720,0.63,0.59,13
+Riyadh,Riyadh,Al-Rahmaniyyah,13349,8763,0.67,0.53,13
+Riyadh,Riyadh,Al-Muathir Ash-Shamali,17339,9732,0.63,0.56,32
+Riyadh,Riyadh,Al-Qayrawan,6534,9392,0.34,0.83,21
+Riyadh,Riyadh,Hittin,12286,9730,0.54,0.59,22
+Riyadh,Riyadh,Al-Aqiq,32044,8637,0.71,0.54,26
+Riyadh,Riyadh,Al-Aridh,3559,10197,0.12,0.92,65
+Riyadh,Riyadh,Al-Nargis,2482,8332,0.27,0.75,26
+Riyadh,Riyadh,Al-Yasmeen,10150,8770,0.58,0.61,67
+Riyadh,Riyadh,Al-Sahafah,23748,9665,0.68,0.52,54
+Riyadh,Riyadh,Al-Rabi',14262,9886,0.67,0.53,31
+Riyadh,Riyadh,Al-Ghadir,14865,11692,0.65,0.51,21
+Riyadh,Riyadh,Al-Nafil,19925,9581,0.64,0.52,21
+Riyadh,Riyadh,Al-Wadi,25736,8716,0.69,0.53,3
+Riyadh,Riyadh,Al-Falah,15967,9875,0.69,0.55,4
+Riyadh,Riyadh,Al-Ramal,18516,11025,0.14,0.91,5
+Riyadh,Riyadh,Al-Munsiyah,14806,8996,0.58,0.66,6
+Riyadh,Riyadh,Granada,22521,10736,0.63,0.53,6
+Riyadh,Riyadh,Al-Yarmouk,40825,9508,0.71,0.54,7
+Riyadh,Riyadh,Al-Qadisiyyah,11098,8314,0.56,0.69,4
+Riyadh,Riyadh,Al-Janadriyah,34105,7562,0.54,0.66,2
+Riyadh,Riyadh,Al-Hamra,35498,11650,0.73,0.51,33
+Riyadh,Riyadh,Al-Quds,42256,11527,0.81,0.51,54
+Riyadh,Riyadh,King Faisal,65906,9669,0.71,0.53,43
+Riyadh,Riyadh,Gulf,90847,7973,0.77,0.52,32
+Riyadh,Riyadh,Andalusia,35468,9617,0.69,0.52,22
+Riyadh,Riyadh,Al-Rayyan,36361,10524,0.72,0.53,23
+Riyadh,Riyadh,Al-Manar,25559,9610,0.72,0.55,24
+Riyadh,Riyadh,Al-Naseem Al-Gharbi,175977,6542,0.69,0.55,25
+Riyadh,Riyadh,Al-Naseem Al-Sharqi,136404,7556,0.75,0.59,25
+Riyadh,Riyadh,Al-Nazeem,90624,7542,0.83,0.56,26
+Riyadh,Riyadh,Al-Rawabi,57118,9233,0.71,0.49,26
+Riyadh,Riyadh,Al-Salam,54530,8776,0.81,0.52,27
+Riyadh,Riyadh,Al-Jazeera,47270,8633,0.82,0.54,12
+Riyadh,Riyadh,Al-Fayhaa,47069,9201,0.71,0.51,35
+Riyadh,Riyadh,Al-Saadah,59619,7662,0.54,0.66,42
+Riyadh,Riyadh,Al-Sulay,43809,1982,0.36,0.84,3
+Riyadh,Riyadh,Al-Manakh,16776,3538,0.4,0.79,23
+Riyadh,Riyadh,Al-Difaa,8782,1907,0.75,0.61,23
+Riyadh,Riyadh,Al-Dar Al-Baydaa,46021,6866,0.74,0.57,12
+Riyadh,Riyadh,Al-Mansouriyyah,4430,1500,0.17,0.84,55
+Riyadh,Riyadh,Taybah,3355,2000,0.18,0.9,5
+Riyadh,Riyadh,Al-Musaffah,6385,1580,0.62,0.75,24
+Riyadh,Riyadh,Al-Musanaa,13513,2073,0.12,0.92,2
+Riyadh,Riyadh,Al-Marwah,19590,7077,0.71,0.56,3
+Riyadh,Riyadh,Badr,89899,6404,0.72,0.56,44
+Riyadh,Riyadh,Ukhudh,5668,10513,0.8,0.46,53
+Riyadh,Riyadh,Areyd,1441,16667,0.49,0.82,35
+Riyadh,Riyadh,Al-Arijaa Al-Gharbiyyah,135026,8024,0.89,0.52,35
+Riyadh,Riyadh,Al-Arijaa Al-Wusta,72264,7807,0.84,0.53,55
+Riyadh,Riyadh,Al-Arijaa,11154,5699,0.59,0.64,43
+Riyadh,Riyadh,Dhahrat Al-Badi'ah,58529,7053,0.81,0.53,33
+Riyadh,Riyadh,Al-Suwaidi Al-Gharbi,51446,8079,0.88,0.5,22
+Riyadh,Riyadh,Al-Zahrah,61588,7548,0.82,0.54,22
+Riyadh,Riyadh,Al-Suwaidi,65242,7125,0.81,0.55,33
+Riyadh,Riyadh,Shibra,50072,8007,0.84,0.51,23
+Riyadh,Riyadh,Al-Darihimiyah,8282,10007,0.7,0.53,43
+Riyadh,Riyadh,Dhahrat Nammar,5563,8681,0.52,0.76,66
+Riyadh,Riyadh,Al-Hazm,15165,8188,0.78,0.56,66
+Riyadh,Riyadh,Nammar,15534,7260,0.78,0.54,54
+Riyadh,Riyadh,Al-Khuzama,10953,15689,0.65,0.53,56
+Riyadh,Riyadh,Khushm Al-Aan,72836,12475,0.94,0.57,53
+Riyadh,Riyadh,Dhahriyyat Nammar,18555,7992,0.96,0.56,25
